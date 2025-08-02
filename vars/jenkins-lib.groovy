@@ -1,4 +1,3 @@
-def call()
-{
-  echo "print devops"
+def call() {
+    echo "📚 Hello from shared lib!"
 }
